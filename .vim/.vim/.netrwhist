@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/data00/home/zhoujing/repos2/i18n_push_online_train/data_push_online_training/resources/conf'
+let g:netrw_dirhist_2='/data00/home/zhoujing/repos2/i18n_push_online_train/push_online_training_buzzshare'
+let g:netrw_dirhist_3='/data00/home/zhoujing/repos2/i18n_push_online_train/push_online_training_buzzshare/src'
+let g:netrw_dirhist_4='/data00/home/zhoujing/repos2/data-push/i18n/pps_i18n_dev/data-push/pps_i18n_conf/helo'
+let g:netrw_dirhist_5='/data00/home/zhoujing/repos3/pps_i18n_dev/data-push/pps_i18n/src/i18n/main'
